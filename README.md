@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CaoimhinHawk1
-- 👀 I’m interested in ... being coll
-- 🌱 I’m currently learning ... compiuters
-- 💞️ I’m looking to collaborate on ... everything
-- 📫 How to reach me ... don't
+- 👀 I’m interested in Programming and Engineering
+- 🌱 I’m currently learning Website and Application Development
+- 💞️ I’m looking to collaborate on project with a focus on Web Development
+- 📫 How to reach me www.linkedin.com/in/kevin-hough-b0b689277
 
 <!---
 CaoimhinHawk1/CaoimhinHawk1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
