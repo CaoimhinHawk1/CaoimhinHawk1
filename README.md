@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Hough</h1>
-<h3 align="center">An up and coming Computer Science student from UL</h3>
+<h3 align="center">Computer Science student from UL</h3>
 
 
 
