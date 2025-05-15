@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [My Final Year Project](https://github.com/CaoimhinHawk1/Kevin-Hough-FYP-Project-2025)
+- 🔭 I’m currently working on Finishing College!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
